@@ -2,17 +2,19 @@
 
 ## Design Preview
 
-![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
+<img src='./design/desktop-preview.jpg'  height='400'>
 
 ## Design 1440px
 
-![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/huddle-landing-1440.png)
+<img src='./design/huddle-landing-1440.png' height='450'>
 
 ## Design 1024px
-![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/huddle-landing-1024.png)
+
+<img src='./design/huddle-landing-1024.png' height='450'>
 
 ## Design 768px
-![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/huddle-landing-768.png)
+
+<img src='./design/huddle-landing-768.png' height='450'>
 
 ## Design 375px
-![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/huddle-landing-375.png)
+<img src='./design/huddle-landing-375.png' height='450'>
